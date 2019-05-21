@@ -1,0 +1,69 @@
+body{
+background-color: background-image: -webkit-gradient(linear, left top, left bottom, from(start-color), to(end-color));
+background-image: -webkit-linear-gradient(top, start-color, end-color);
+background-image: -moz-linear-gradient(top, start-color, end-color);
+background-image: linear-gradient(to bottom, start-color, end-color);
+}
+.spell{ 
+position: absolute;
+top: 100px;
+left: 50px;
+max-width: 10%;
+height: 10%;
+}
+.spell1{ 
+position: absolute;
+top: 200px;
+left: 50px;
+max-width: 10%;
+height: 10%;
+}
+.spell2{ 
+position: absolute;
+top: 300px;
+left: 50px;
+max-width: 10%;
+height: 10%;
+}
+.spell3{ 
+position: absolute;
+top: 400px;
+left: 50px;
+max-width: 10%;
+height: 10%;
+}
+.spell4{ 
+position: absolute;
+top: 500px;
+left: 50px;
+max-width: 10%;
+height: 10%;
+}
+.spell5{ 
+position: absolute;
+top: 600px;
+left: 50px;
+max-width: 10%;
+height: 10%;
+}
+.spells1{ 
+position: absolute;
+top: 700px;
+left: 50px;
+max-width: 10%;
+height: 10%;
+}
+.spells2{ 
+position: absolute;
+top: 800px;
+left: 50px;
+max-width: 10%;
+height: 10%;
+}
+.spells3{ 
+position: absolute;
+top: 900px;
+left: 50px;
+max-width: 10%;
+height: 10%;
+}
